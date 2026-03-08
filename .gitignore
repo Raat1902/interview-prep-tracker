@@ -1,0 +1,17 @@
+# Compiled output
+out/
+*.class
+
+# Generated data file (created when you Save & Exit)
+problems.csv
+
+# OS junk
+.DS_Store
+Thumbs.db
+
+# VS Code
+.vscode/
+
+# IntelliJ
+.idea/
+*.iml
